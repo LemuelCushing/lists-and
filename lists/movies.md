@@ -28,6 +28,9 @@ Salo
 Donnie Darko
 Pulp Fiction
 Life of Brian
+Trash Fire 
 
 
 ## Wanted
+
+Sunset Boulevard 
