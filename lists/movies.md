@@ -26,7 +26,7 @@ Cry Baby
 Naked 
 Salo
 Donnie Darko
-Pulp Fiction
+Pulp Fiction 
 Life of Brian
 Trash Fire 
 
@@ -35,4 +35,6 @@ Trash Fire
 
 Sunset Boulevard 
 
-Things we can't say about race but are true (Ophir recommends) 
+Things we can't say about race but are true (Ophir recommends)
+
+Walk hard 
