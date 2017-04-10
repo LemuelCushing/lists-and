@@ -29,6 +29,7 @@ Donnie Darko
 Pulp Fiction 
 Life of Brian
 Trash Fire 
+The Thief and the Cobbler
 
 
 ## Wanted
