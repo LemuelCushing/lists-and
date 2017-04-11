@@ -38,3 +38,5 @@ Sunset Boulevard
 Things we can't say about race but are true (Ophir recommends)
 
 Walk hard 
+
+[How to Watch a Frederick Wiseman Movie](https://nyti.ms/2oEWFLK)
