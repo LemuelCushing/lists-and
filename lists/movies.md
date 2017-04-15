@@ -1,35 +1,37 @@
 # Movies
 
 ## Watched
-The Secret Life of Tom Thumb
-Kramer vs. Kramer
-Uzumaki
-Hedwig and The Angry Itch
-Rushmore
-The Tennenbaums
-Secret of The Tribe
-Best of Enemies
-Blue Ruin
-The Battery
-The Triplets of Belleville
-What We Do In The Shadows
-Arcenic and Old Lace
-Hot Fuzz
-Stranger Than Paradise
-Convoy
-Jesus Christ Superstar
-Whatever Happned to Harold Smith?
-4 Moths 3 Weeks 2 Days
-O Brother Where Art Thou?
-Big Lebowski
-Cry Baby
-Naked 
-Salo
-Donnie Darko
-Pulp Fiction 
-Life of Brian
-Trash Fire 
-The Thief and the Cobbler
+
+* 4 Moths 3 Weeks 2 Days
+* Arsenic and Old Lace
+* Best of Enemies
+* Big Lebowski
+* Blue Ruin
+* Convoy
+* Cry Baby
+* Donnie Darko
+* Hedwig and The Angry Itch
+* Hot Fuzz
+* Jesus Christ Superstar
+* Kramer vs. Kramer
+* Life of Brian
+* Naked 
+* O Brother Where Art Thou?
+* Oh, God!
+* Pulp Fiction 
+* Rushmore
+* Salo
+* Secret of The Tribe
+* Stranger Than Paradise
+* The Battery
+* The Secret Life of Tom Thumb
+* The Tannenbaums
+* The Thief and the Cobbler
+* The Triplets of Belleville
+* Trash Fire 
+* Uzumaki
+* What We Do In The Shadows
+* Whatever Happened to Harold Smith?
 
 
 ## Wanted
