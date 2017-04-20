@@ -77,9 +77,14 @@
 * Trollied
 * Two Pints of Lager and Packet of Crisps 
 
+## Watching 
+
+* The thick of it 
+
 ## Wanted
 
 * Don't Drink the Water
 * Teachers
 * Brass Eye
-* cars of the people - BBC documentary with James May about cars 
+* cars of the people - BBC documentary with James May about cars (rec. Tzlil and Daniel) 
+* Chickens - British comedy about WWII non drafted young adults 
