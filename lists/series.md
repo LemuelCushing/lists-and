@@ -76,8 +76,16 @@
 * Thieves Like Us
 * Trollied
 * Two Pints of Lager and Packet of Crisps 
+<<<<<<< HEAD
 * Big Train
 * The Thick Of It
+=======
+
+## Watching 
+
+* The thick of it 
+
+>>>>>>> 9c3beaa6b1c5e1a4c2fc0c9a0b564408597e8d9a
 ## Wanted
 
 * Veep
@@ -85,3 +93,8 @@
 * Don't Drink the Water
 * Teachers
 * Brass Eye
+<<<<<<< HEAD
+=======
+* cars of the people - BBC documentary with James May about cars (rec. Tzlil and Daniel) 
+* Chickens - British comedy about WWII non drafted young adults 
+>>>>>>> 9c3beaa6b1c5e1a4c2fc0c9a0b564408597e8d9a

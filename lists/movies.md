@@ -42,4 +42,8 @@ Things we can't say about race but are true (Ophir recommends)
 
 Walk hard 
 
+<<<<<<< HEAD
+[How to Watch a Frederick Wiseman Movie](https://nyti.ms/2oEWFLK)
+=======
 All the Way - bryan Cranston as Lyndon B. Johnson - Democrats in the South
+>>>>>>> branch 'master' of https://github.com/LemuelCushing/lists-and.git
