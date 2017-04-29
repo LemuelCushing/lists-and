@@ -33,7 +33,10 @@
 * What We Do In The Shadows
 * Whatever Happened to Harold Smith?
 
+The Battery
 
+Blue Ruin
+ 
 ## Wanted
 
 Sunset Boulevard 
@@ -42,8 +45,20 @@ Things we can't say about race but are true (Ophir recommends)
 
 Walk hard 
 
-<<<<<<< HEAD
+
 [How to Watch a Frederick Wiseman Movie](https://nyti.ms/2oEWFLK)
-=======
+
 All the Way - bryan Cranston as Lyndon B. Johnson - Democrats in the South
->>>>>>> branch 'master' of https://github.com/LemuelCushing/lists-and.git
+
+Resolution (2012)
+
+
+Rare Exports(this one isnt low buget but its a Foreign film)
+
+Coherence
+
+The One I Love
+
+Wrong
+
+Cheap Thrills 
