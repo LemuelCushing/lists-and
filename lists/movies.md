@@ -52,7 +52,6 @@ All the Way - bryan Cranston as Lyndon B. Johnson - Democrats in the South
 
 Resolution (2012)
 
-
 Rare Exports(this one isnt low buget but its a Foreign film)
 
 Coherence
@@ -62,3 +61,5 @@ The One I Love
 Wrong
 
 Cheap Thrills 
+
+[Get Out](https://en.wikipedia.org/wiki/Get_Out_(film)) - Ophir and noa recommend it. A horror film with a poinent take on race relations.
