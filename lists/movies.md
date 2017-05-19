@@ -45,6 +45,7 @@ Things we can't say about race but are true (Ophir recommends)
 
 Walk hard 
 
+[The Double (2013 film) - Wikipedia](https://en.wikipedia.org/wiki/The_Double_(2013_film)) - a 2013 British black comedy thriller film written and directed by Richard Ayoade
 
 [How to Watch a Frederick Wiseman Movie](https://nyti.ms/2oEWFLK)
 
