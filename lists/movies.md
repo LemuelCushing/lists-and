@@ -66,3 +66,5 @@ Cheap Thrills
 [Get Out](https://en.wikipedia.org/wiki/Get_Out_(film)) - Ophir and noa recommend it. A horror film with a poinent take on race relations.
 
 [Get Me Roger Stone](https://www.theguardian.com/film/2017/may/12/get-me-roger-stone-documentary-review-donald-trump)
+
+[Blueberry](https://en.wikipedia.org/wiki/Blueberry_(film)) - A french western with **Eddie Izzard**! (He talks about it in his 'Live from Wembeley')

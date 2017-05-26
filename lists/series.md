@@ -98,3 +98,4 @@
 * [Nathan Barley - Wikipedia](https://en.wikipedia.org/wiki/Nathan_Barley) - a British Channel 4 television sitcom written by Charlie Brooker and Chris Morris, starring Nicholas Burns, **Julian Barratt**, Claire 
 Keelan, **Richard Ayoade**, Ben Whishaw, Rhys Thomas and Charlie Condou.
 * Rob Brydon's [Directors Commentary - Wikipedia](https://en.wikipedia.org/wiki/Directors_Commentary)
+* [The Secret Rulers of the World - Wikipedia](https://en.wikipedia.org/wiki/The_Secret_Rulers_of_the_World) - a five-part Cahnnel 4 documentary series which details encounters with conspiracy theorists.

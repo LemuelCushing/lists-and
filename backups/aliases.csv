@@ -1,0 +1,27 @@
+Alias,Command,Note
+l,Get-ChildItem-Color -option AllScope,Table dir content 
+dir,Get-ChildItem-Color -option AllScope -Force,Same as l
+ls,Get-ChildItem-Format-Wide -option AllScope,List dir content
+python2,C:\Python27\python.exe,Python 2.7
+pip2,C:\Python27\Scripts\pip2.exe,Pip 2
+pip27,C:\Python27\Scripts\pip2.7.exe,Pip 2.7
+sudo,elevate-process,Super User Do
+ps-info,Get-Variable profile | Format-List,Displays the location of the PS config file
+ps-edit-cfg-np,notepad [..]\PowerShell_profile.ps1,Opens the PS config file in Notepad
+ps-edit-cfg-code,code [..]\PowerShell_profile.ps1,Opens teh PS config file in VScode
+scihub,scihub.py,Search Sci-Hub
+scihub-dl,scihub.py -v -d,Download by DOI to curr dir
+scihub-help,scihub.py -h,Display Sci-Hub CLI help
+alias-list,alias-list-func,Shows this list as list
+alias-table,alias-table-func,Shows this list as table
+chance,[npm] chance-cli,Generate random stuff - http://chancejs.com/
+german,[npm] german, German conjigation
+dict,[pip]define.py,Search Wordnik for definition
+thesaurus,[pip]define.py -t,Search Wordnik for synonyms
+docs,[cd] ~\OneDrive\Docs,Folder Shortcut
+sandbox-local,[cd] ~\Documents\CodingTuts,Folder Shortcut
+papers,[cd] ~\OneDrive\Docs\Papers,Folder Shortcut
+sandbox-onedrive,[cd] ~\OneDrive\Docs\Sandbox,Folder Shortcut
+polish-uprising-presentation,[cd] ~\OneDrive\Docs\Papers\PolishUprisingSeminar2016-7\Presentation\reveal.js,Folder Shortcut
+lists,[cd] ~\OneDrive\Docs\Personal\lists-and\,Folder Shortcut
+polish-uprising-presentation-serve,[cd][..]\reveal.js $$ grunt serve, Serve the presentation and open in the browser
