@@ -5,7 +5,9 @@ Upload Summary
 
 --------------------
 GITHUB TOKEN: See SimpleNote
+
 GITHUB GIST: 55e4839d797854844df3906363638fac
+
 GITHUB GIST TYPE: Secret
 
 --------------------
