@@ -104,3 +104,15 @@ Keelan, **Richard Ayoade**, Ben Whishaw, Rhys Thomas and Charlie Condou.
 * [Scotch and Wry](https://en.wikipedia.org/wiki/Scotch_and_Wry)
 * Broken - Drama series about a well-respected Catholic priest presiding over a large parish on the outskirts of a major city in northern 
 England, starring Sean Bean.
+
+Scottish comedies:
+* [Legit (2006 TV series) - Wikipedia](https://en.wikipedia.org/wiki/Legit_(2006_TV_series)) 
+* [Empty (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Empty_(TV_series)) 
+* [Dear Green Place - Wikipedia](https://en.wikipedia.org/wiki/Dear_Green_Place) 
+* [Chewin' the Fat - Wikipedia](https://en.wikipedia.org/wiki/Chewin%27_the_Fat) 
+* [Still Game - Wikipedia](https://en.wikipedia.org/wiki/Still_Game) 
+* [Rab C. Nesbitt - Wikipedia](https://en.wikipedia.org/wiki/Rab_C._Nesbitt) 
+* [Happy Hollidays - Wikipedia](https://en.wikipedia.org/wiki/Happy_Hollidays)
+* [Naked Video - Wikipedia](https://en.wikipedia.org/wiki/Naked_Video)
+
+* [A Kick Up the Eighties - Wikipedia](https://en.wikipedia.org/wiki/A_Kick_Up_the_Eighties) - Rik Mayall's first TV show
