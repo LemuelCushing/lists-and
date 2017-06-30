@@ -25,3 +25,5 @@ sandbox-onedrive,[cd] ~\OneDrive\Docs\Sandbox,Folder Shortcut
 polish-uprising-presentation,[cd] ~\OneDrive\Docs\Papers\PolishUprisingSeminar2016-7\Presentation\reveal.js,Folder Shortcut
 lists,[cd] ~\OneDrive\Docs\Personal\lists-and\,Folder Shortcut
 polish-uprising-presentation-serve,[cd][..]\reveal.js $$ grunt serve, Serve the presentation and open in the browser
+camelize("string"),[npm - underscore.string.cli] string camelCase $string | Set-Clipboard, "One: Two Three" => "One-TwoThree" 
+humanize("string"),[npm - underscore.string.cli] string humanize $string | Set-Clipboard, "ONE      TwoThree-four_five" => "One two three four five"

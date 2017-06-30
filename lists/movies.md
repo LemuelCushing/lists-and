@@ -70,3 +70,5 @@ Cheap Thrills
 [Blueberry](https://en.wikipedia.org/wiki/Blueberry_(film)) - A french western with **Eddie Izzard**! (He talks about it in his 'Live from Wembeley')
 
 [Mickey One - Wikipedia](https://en.wikipedia.org/wiki/Mickey_One)
+
+[Comrade Kim Goes Flying - Wikipedia](https://en.wikipedia.org/wiki/Comrade_Kim_Goes_Flying) - a 2012 joint British-Belgian-North Korean
