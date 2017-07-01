@@ -118,3 +118,4 @@ Scottish comedies:
 * [A Kick Up the Eighties - Wikipedia](https://en.wikipedia.org/wiki/A_Kick_Up_the_Eighties) - Rik Mayall's first TV show
 
 * [The Optimist (TV series) - Wikipedia](https://en.wikipedia.org/wiki/The_Optimist_(TV_series))
+[Lee Hepner - Wikipedia](https://en.wikipedia.org/wiki/Lee_Hepner)
