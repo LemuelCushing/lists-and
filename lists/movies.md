@@ -73,3 +73,4 @@ Cheap Thrills
 
 [Comrade Kim Goes Flying - Wikipedia](https://en.wikipedia.org/wiki/Comrade_Kim_Goes_Flying) - a 2012 joint British-Belgian-North Korean
 [Children of the Secret State - Wikipedia](https://en.wikipedia.org/wiki/Children_of_the_Secret_State)
+[Dear Pyongyang - Wikipedia](https://en.wikipedia.org/wiki/Dear_Pyongyang)
