@@ -16,7 +16,7 @@ alias-list,alias-list-func,Shows this list as list
 alias-table,alias-table-func,Shows this list as table
 chance,[npm] chance-cli,Generate random stuff - http://chancejs.com/
 german,[npm] german, German conjigation
-dict,[pip]define.py,Search Wordnik for definition
+dictionary,[pip]define.py,Search Wordnik for definition
 thesaurus,[pip]define.py -t,Search Wordnik for synonyms
 docs,[cd] ~\OneDrive\Docs,Folder Shortcut
 sandbox-local,[cd] ~\Documents\CodingTuts,Folder Shortcut
@@ -27,3 +27,5 @@ lists,[cd] ~\OneDrive\Docs\Personal\lists-and\,Folder Shortcut
 polish-uprising-presentation-serve,[cd][..]\reveal.js $$ grunt serve, Serve the presentation and open in the browser
 camelize("string"),[npm - underscore.string.cli] string camelCase $string | Set-Clipboard, "One: Two Three" => "One-TwoThree" 
 humanize("string"),[npm - underscore.string.cli] string humanize $string | Set-Clipboard, "ONE      TwoThree-four_five" => "One two three four five"
+dict,[npm - wordnik-dictionary],Start the Wordnik CLI
+haskell,cd 'sandbox\Haskell'&&start GHCi,Moves to Haskell sandbox folder and start the interperter
