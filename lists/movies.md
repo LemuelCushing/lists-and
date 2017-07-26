@@ -76,3 +76,7 @@ Cheap Thrills
 [Dear Pyongyang - Wikipedia](https://en.wikipedia.org/wiki/Dear_Pyongyang)
 [Defilada - Wikipedia](https://en.wikipedia.org/wiki/Defilada) - Polish 1989 documentary on DPRK. Despite its anti-totalitarian message, it has received praise 
 from North Korea itself.
+
+[Starter for 10](https://en.wikipedia.org/wiki/Starter_for_10_(film)) - 
+	* "Starter For 10 is a spirited coming-of-age tale that remains charming and witty even as it veers into darker territory. The unique setting of a quiz show makes the film wittier than your average romantic comedy."
+	* "The song "Ace of Spades", which appears at the beginning of the film, was performed by Motörhead in the "Bambi" episode of The Young Ones, filmed in Bristol, that included the University Challenge spoof."
