@@ -78,7 +78,9 @@ Cheap Thrills
 from North Korea itself.
 
 [Starter for 10](https://en.wikipedia.org/wiki/Starter_for_10_(film)) - 
+
 	* "Starter For 10 is a spirited coming-of-age tale that remains charming and witty even as it veers into darker territory. The unique setting of a quiz show makes the film wittier than your average romantic comedy."
+
 	* "The song "Ace of Spades", which appears at the beginning of the film, was performed by Motörhead in the "Bambi" episode of The Young Ones, filmed in Bristol, that included the University Challenge spoof."
 
-	* [This Is England](https://en.wikipedia.org/wiki/This_Is_England) - a 2006 British drama film. Centres on young skinheads in England in 1983. The film illustrates how their subculture, which has its roots in 1960s West Indies culture, especially ska, soul, and reggae music,[4][5] became adopted by the far-right, especially white nationalists and white supremacists, which led to divisions within the skinhead scene. Has TV sequals, see (Series)[../series.html]
+* [This Is England](https://en.wikipedia.org/wiki/This_Is_England) - a 2006 British drama film. Centres on young skinheads in England in 1983. The film illustrates how their subculture, which has its roots in 1960s West Indies culture, especially ska, soul, and reggae music, became adopted by the far-right, especially white nationalists and white supremacists, which led to divisions within the skinhead scene. Has TV sequals, see (Series)[../series.html]
