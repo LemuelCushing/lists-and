@@ -90,3 +90,5 @@ from North Korea itself.
 * [A Christmas Story (1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
 
 * [Silmido (film) - Wikipedia](https://en.wikipedia.org/wiki/Silmido_(film))
+
+* [Diplomacy](https://www.reddit.com/r/AskHistorians/comments/3i978w/did_the_nazis_ever_destroy_ancient_andor/cuey4wd/)
