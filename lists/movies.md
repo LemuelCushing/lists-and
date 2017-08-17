@@ -81,10 +81,12 @@ from North Korea itself.
 
 	* "Starter For 10 is a spirited coming-of-age tale that remains charming and witty even as it veers into darker territory. The unique setting of a quiz show makes the film wittier than your average romantic comedy."
 
-	* "The song "Ace of Spades", which appears at the beginning of the film, was performed by Motörhead in the "Bambi" episode of The Young Ones, filmed in Bristol, that included the University Challenge spoof."
+	* "The song "Ace of Spades", which appears at the beginning of the film, was performed by MotÃ¶rhead in the "Bambi" episode of The Young Ones, filmed in Bristol, that included the University Challenge spoof."
 
 * [This Is England](https://en.wikipedia.org/wiki/This_Is_England) - a 2006 British drama film. Centres on young skinheads in England in 1983. The film illustrates how their subculture, which has its roots in 1960s West Indies culture, especially ska, soul, and reggae music, became adopted by the far-right, especially white nationalists and white supremacists, which led to divisions within the skinhead scene. Has TV sequals, see (Series)[../series.html]
 
 * [The Trip to Spain](http://www.slate.com/blogs/browbeat/2017/08/11/the_trip_to_spain_extends_the_best_and_saddest_summer_movie_franchise.html) - Steven Coogan and Rob Brydon, *The Trip* sequal of sorts
 
-* [A Christmas Story�(1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
+* [A Christmas Story (1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
+
+* [Silmido (film) - Wikipedia](https://en.wikipedia.org/wiki/Silmido_(film))
