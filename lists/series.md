@@ -137,4 +137,4 @@ Scottish comedies:
 
 * This is England - [Stephen Graham - Wikipedia](https://en.wikipedia.org/wiki/Stephen_Graham)
 
-* Making a murder - like jinx but with hillbillies 
+* [Capturing the Friedmans - Wikipedia](https://en.wikipedia.org/wiki/Capturing_the_Friedmans) - a 2003 HBO documentary film directed by Andrew Jarecki. It focuses on the 1980s investigation of Arnold and Jesse Friedman for child molestation. 
