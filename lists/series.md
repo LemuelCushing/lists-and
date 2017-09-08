@@ -46,6 +46,8 @@
 * Top Buzzer
 * Nathan Barley
 * Miranda
+* The Jinx
+* Making a Murderer
 
 ## Part
 
