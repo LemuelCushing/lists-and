@@ -32,6 +32,11 @@
 * Uzumaki
 * What We Do In The Shadows
 * Whatever Happened to Harold Smith?
+* Capturing the Friedmans
+* Jeff or The Jeffery Dahmer Files
+* American Movie (Part)
+* West of Memphis
+ 
 
 The Battery
 
