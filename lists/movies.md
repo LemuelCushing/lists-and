@@ -97,3 +97,7 @@ from North Korea itself.
 * [Silmido (film) - Wikipedia](https://en.wikipedia.org/wiki/Silmido_(film))
 
 * [Diplomacy](https://www.reddit.com/r/AskHistorians/comments/3i978w/did_the_nazis_ever_destroy_ancient_andor/cuey4wd/)
+
+* [Whatever Works](https://en.wikipedia.org/wiki/Whatever_Works) - Starring Larry David and directed by Woody Allen.
+
+* Director [Ernst Lubitsch](https://en.wikipedia.org/wiki/Ernst_Lubitsch) - (/ˈluːbɪtʃ/; January 29, 1892 – November 30, 1947) was a German American film director, producer, writer, and actor. His urbane *comedies of manners* gave him the reputation of being Hollywood's most elegant and sophisticated director; as his prestige grew, his films were promoted as having "_the Lubitsch touch_". Among his most famous works are **Trouble in Paradise**, **Ninotchka**, **The Shop Around the Corner** and **To Be or Not to Be**.
