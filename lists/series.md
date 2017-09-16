@@ -48,6 +48,7 @@
 * Miranda
 * The Jinx
 * Making a Murderer
+* Catterick
 
 ## Part
 
@@ -89,11 +90,14 @@
 * Human Remains
 * Fargo
 * Game of Thrones
-* [Catterick](https://www.youtube.com/playlist?list=PLCK5Lcs_vqSAGJSSA1kY4udb2hbZytiVa)
+<!-- * [Catterick](https://www.youtube.com/playlist?list=PLCK5Lcs_vqSAGJSSA1kY4udb2hbZytiVa) -->
+* The Confession files
+* Time - The Kalief Browder story
 
 ## To-Rewatch
 
 * Top Buzzer
+
 ## Wanted
 
 * Veep
@@ -138,3 +142,7 @@ Scottish comedies:
 * This is England - [Stephen Graham - Wikipedia](https://en.wikipedia.org/wiki/Stephen_Graham)
 
 * [Capturing the Friedmans - Wikipedia](https://en.wikipedia.org/wiki/Capturing_the_Friedmans) - a 2003 HBO documentary film directed by Andrew Jarecki. It focuses on the 1980s investigation of Arnold and Jesse Friedman for child molestation. 
+
+* [You Rang, M'Lord? - Wikipedia](https://en.wikipedia.org/wiki/You_Rang,_M%27Lord%3F) 
+
+* [How Do You Want Me?](https://www.instagram.com/p/BZCfue_H4Dw/) - Noted by Simon Kane as "a masterpiece". Starring Dylan Moran.

@@ -3,15 +3,20 @@
 ## Watched
 
 * 4 Moths 3 Weeks 2 Days
+* American Movie (Part)
 * Arsenic and Old Lace
 * Best of Enemies
 * Big Lebowski
 * Blue Ruin
+* Blue Ruin
+* Capturing the Friedmans
 * Convoy
+* Cropsey
 * Cry Baby
 * Donnie Darko
 * Hedwig and The Angry Itch
 * Hot Fuzz
+* Jeff or The Jeffery Dahmer Files
 * Jesus Christ Superstar
 * Kramer vs. Kramer
 * Life of Brian
@@ -24,24 +29,17 @@
 * Secret of The Tribe
 * Stranger Than Paradise
 * The Battery
+* The Battery
 * The Secret Life of Tom Thumb
 * The Tannenbaums
 * The Thief and the Cobbler
 * The Triplets of Belleville
 * Trash Fire 
 * Uzumaki
+* West of Memphis
 * What We Do In The Shadows
 * Whatever Happened to Harold Smith?
-* Capturing the Friedmans
-* Jeff or The Jeffery Dahmer Files
-* American Movie (Part)
-* West of Memphis
- 
 
-The Battery
-
-Blue Ruin
- 
 ## Wanted
 
 Sunset Boulevard 
@@ -84,9 +82,9 @@ from North Korea itself.
 
 [Starter for 10](https://en.wikipedia.org/wiki/Starter_for_10_(film)) - 
 
-	* "Starter For 10 is a spirited coming-of-age tale that remains charming and witty even as it veers into darker territory. The unique setting of a quiz show makes the film wittier than your average romantic comedy."
+  * "Starter For 10 is a spirited coming-of-age tale that remains charming and witty even as it veers into darker territory. The unique setting of a quiz show makes the film wittier than your average romantic comedy."
 
-	* "The song "Ace of Spades", which appears at the beginning of the film, was performed by MotÃ¶rhead in the "Bambi" episode of The Young Ones, filmed in Bristol, that included the University Challenge spoof."
+  * "The song "Ace of Spades", which appears at the beginning of the film, was performed by MotÃ¶rhead in the "Bambi" episode of The Young Ones, filmed in Bristol, that included the University Challenge spoof."
 
 * [This Is England](https://en.wikipedia.org/wiki/This_Is_England) - a 2006 British drama film. Centres on young skinheads in England in 1983. The film illustrates how their subculture, which has its roots in 1960s West Indies culture, especially ska, soul, and reggae music, became adopted by the far-right, especially white nationalists and white supremacists, which led to divisions within the skinhead scene. Has TV sequals, see (Series)[../series.html]
 
@@ -101,3 +99,5 @@ from North Korea itself.
 * [Whatever Works](https://en.wikipedia.org/wiki/Whatever_Works) - Starring Larry David and directed by Woody Allen.
 
 * Director [Ernst Lubitsch](https://en.wikipedia.org/wiki/Ernst_Lubitsch) - (/ˈluːbɪtʃ/; January 29, 1892 – November 30, 1947) was a German American film director, producer, writer, and actor. His urbane *comedies of manners* gave him the reputation of being Hollywood's most elegant and sophisticated director; as his prestige grew, his films were promoted as having "_the Lubitsch touch_". Among his most famous works are **Trouble in Paradise**, **Ninotchka**, **The Shop Around the Corner** and **To Be or Not to Be**.
+
+* American Movie
