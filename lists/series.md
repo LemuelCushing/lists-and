@@ -150,3 +150,5 @@ Scottish comedies:
 * [10 True Crime Shows to Watch This Fall | Rolling Stone](http://www.rollingstone.com/tv/lists/10-true-crime-shows-to-watch-this-fall-w503019)
 
 * [Look Around You (TV Series 2002–2005) - IMDb](http://www.imdb.com/title/tt0358323/?ref_=tt_rec_tt) 
+
+* [Strangers with Candy](https://en.wikipedia.org/wiki/Strangers_with_Candy) - tcult classic, gay icon. Referrenced in RuPaul's s08e08
