@@ -39,7 +39,8 @@
 * West of Memphis
 * What We Do In The Shadows
 * Whatever Happened to Harold Smith?
-
+* The Wizard of Lies
+* Casting JonBennet
 ## Wanted
 
 Sunset Boulevard 
