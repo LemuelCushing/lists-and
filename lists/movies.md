@@ -102,3 +102,5 @@ from North Korea itself.
 * Director [Ernst Lubitsch](https://en.wikipedia.org/wiki/Ernst_Lubitsch) - (/ˈluːbɪtʃ/; January 29, 1892 – November 30, 1947) was a German American film director, producer, writer, and actor. His urbane *comedies of manners* gave him the reputation of being Hollywood's most elegant and sophisticated director; as his prestige grew, his films were promoted as having "_the Lubitsch touch_". Among his most famous works are **Trouble in Paradise**, **Ninotchka**, **The Shop Around the Corner** and **To Be or Not to Be**.
 
 * American Movie
+
+* Strange Occurrences in a Small Irish Village - the title taken from a British newspaper headline at the time, offers a fascinating and fair insight into the village which has grown around the events of 1879.
