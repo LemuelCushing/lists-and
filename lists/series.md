@@ -160,3 +160,4 @@ With extreme attention to detail, Documentary Now! furthers its hilarious tribut
 * [Strangers with Candy](https://en.wikipedia.org/wiki/Strangers_with_Candy) - tcult classic, gay icon. Referrenced in RuPaul's s08e08
 >>>>>>> 6103e7290d07d7bc9d861a4503705d34dd1e6983
 [Auf Wiedersehen, Pet - Wikipedia](https://en.wikipedia.org/wiki/Auf_Wiedersehen,_Pet)
+[War Machine (film) - Wikipedia](https://en.wikipedia.org/wiki/War_Machine_(film)#Filming)
