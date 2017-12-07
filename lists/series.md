@@ -46,6 +46,9 @@
 * Top Buzzer
 * Nathan Barley
 * Miranda
+* The Jinx
+* Making a Murderer
+* Catterick
 
 ## Part
 
@@ -85,13 +88,16 @@
 * The Thick Of It
 * [Family Tree (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Family_Tree_(TV_series)) - a documentary-style television comedy starring Chris O'Dowd and Nina Conti (the ventriloquist)
 * Human Remains
-* [Top Buzzer](https://en.wikipedia.org/wiki/Top_Buzzer)
 * Fargo
 * Game of Thrones
+<!-- * [Catterick](https://www.youtube.com/playlist?list=PLCK5Lcs_vqSAGJSSA1kY4udb2hbZytiVa) -->
+* The Confession files
+* Time - The Kalief Browder story
 
 ## To-Rewatch
 
 * Top Buzzer
+
 ## Wanted
 
 * Veep
@@ -135,7 +141,22 @@ Scottish comedies:
 
 * This is England - [Stephen Graham - Wikipedia](https://en.wikipedia.org/wiki/Stephen_Graham)
 
+<<<<<<< HEAD
 * Making a murder - like jinx but with hillbillies 
 
 * [Documentary Now!](https://www.rottentomatoes.com/tv/documentary_now_/) - Boasting a talented cast and smart writing, Documentary Now! is a clever send-up of non-fiction filmmaking, though some may find themselves outside the narrow scope of its humor.
 With extreme attention to detail, Documentary Now! furthers its hilarious tribute to vintage documentaries through showcasing creators Hader and Armisen's multi-talents, topped with brilliantly by earnestly dramatic introductions by Dame Helen Mirren.
+=======
+* [Capturing the Friedmans - Wikipedia](https://en.wikipedia.org/wiki/Capturing_the_Friedmans) - a 2003 HBO documentary film directed by Andrew Jarecki. It focuses on the 1980s investigation of Arnold and Jesse Friedman for child molestation. 
+
+* [You Rang, M'Lord? - Wikipedia](https://en.wikipedia.org/wiki/You_Rang,_M%27Lord%3F) 
+
+* [How Do You Want Me?](https://www.instagram.com/p/BZCfue_H4Dw/) - Noted by Simon Kane as "a masterpiece". Starring Dylan Moran.
+
+* [10 True Crime Shows to Watch This Fall | Rolling Stone](http://www.rollingstone.com/tv/lists/10-true-crime-shows-to-watch-this-fall-w503019)
+
+* [Look Around You (TV Series 2002–2005) - IMDb](http://www.imdb.com/title/tt0358323/?ref_=tt_rec_tt) 
+
+* [Strangers with Candy](https://en.wikipedia.org/wiki/Strangers_with_Candy) - tcult classic, gay icon. Referrenced in RuPaul's s08e08
+>>>>>>> 6103e7290d07d7bc9d861a4503705d34dd1e6983
+[Auf Wiedersehen, Pet - Wikipedia](https://en.wikipedia.org/wiki/Auf_Wiedersehen,_Pet)
