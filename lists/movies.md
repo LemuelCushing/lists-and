@@ -91,11 +91,10 @@ from North Korea itself.
 
 * [The Trip to Spain](http://www.slate.com/blogs/browbeat/2017/08/11/the_trip_to_spain_extends_the_best_and_saddest_summer_movie_franchise.html) - Steven Coogan and Rob Brydon, *The Trip* sequal of sorts
 
-<<<<<<< HEAD
-* [A Christmas Story (1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
+* [A Christmas Storyï¿½(1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
 
 * [Top 100 Documentary Movies - Rotten Tomatoes](https://www.rottentomatoes.com/top/bestofrt/top_100_documentary_movies/)
-=======
+
 * [A Christmas StoryÂ (1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
 
 * [Silmido (film) - Wikipedia](https://en.wikipedia.org/wiki/Silmido_(film))
@@ -109,4 +108,5 @@ from North Korea itself.
 * American Movie
 
 * Strange Occurrences in a Small Irish Village - the title taken from a British newspaper headline at the time, offers a fascinating and fair insight into the village which has grown around the events of 1879.[Flight from Death - Wikipedia](https://en.wikipedia.org/wiki/Flight_from_Death)
->>>>>>> 6103e7290d07d7bc9d861a4503705d34dd1e6983
+
+* [NYTimes best movies of 2017](https://www.nytimes.com/2017/12/06/movies/best-movies.html)
