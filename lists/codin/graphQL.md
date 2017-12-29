@@ -429,3 +429,23 @@ type Mutation {
 
 (We also must add an `ID` type to the `Post` type in order for the update and delete posts to work)
 
+We can also allow clients to subscribe to any type of event we have defined:
+
+```graphQL
+type Subscription {
+    newPerson: Person!
+    updatedPerson: Person!
+    deletedPerson: Person!
+    newPost: Post:
+    updatedPost: Post!
+    deletedPost: Post!
+}
+```
+
+----------------
+
+[HowToGraphQL-Basics/3 - Big Picture](https://www.howtographql.com/basics/3-big-picture/)
+
+Note - GraphQL is merely a specification, which describes how a GraphQL server should behave (Allowed requests and response format)
+
+Thus, in order to use GraphQL, w
