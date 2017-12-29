@@ -91,7 +91,7 @@ from North Korea itself.
 
 * [The Trip to Spain](http://www.slate.com/blogs/browbeat/2017/08/11/the_trip_to_spain_extends_the_best_and_saddest_summer_movie_franchise.html) - Steven Coogan and Rob Brydon, *The Trip* sequal of sorts
 
-* [A Christmas Story�(1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
+* [A Christmas Story(1983) - Rotten Tomatoes](https://www.rottentomatoes.com/m/1004151_christmas_story)
 
 * [Top 100 Documentary Movies - Rotten Tomatoes](https://www.rottentomatoes.com/top/bestofrt/top_100_documentary_movies/)
 
