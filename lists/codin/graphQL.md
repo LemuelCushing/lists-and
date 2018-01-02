@@ -10,7 +10,7 @@
 
 [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 
-[Introduction to GraphQL | GraphQL](http://graphql.org/learn/)
+[Introduction to GraphQL  - GraphQL](http://graphql.org/learn/)
 
 ## Resources
 
