@@ -8,6 +8,8 @@
 
 ## Tutorials
 
+* [A crash course on TypeScript with Node.js  Sourcerer Blog](https://blog.sourcerer.io/a-crash-course-on-typescript-with-node-js-2c376285afe1)
+
 ## Resources
 
 ## Related
