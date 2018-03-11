@@ -41,7 +41,30 @@ Medium](https://medium.com/the-node-js-collection/modern-javascript-explained-fo
 
 * [(30) Worst JavaScript Flaws That Hackers Love To Abuse - YouTube](https://www.youtube.com/watch?v=0dgmeTy7X3I)
 
-### Reading 
+* [Guides - Advanced Web Machinery](https://advancedweb.hu/guides.html#collection_pipelines-ref)
+
+* [hands-on with javascript](http://www.webtrainingcentre.com/web-development-courses/hands-on-with-javascript/) - f javascript but are not confident 
+to independently work as javascript developer. It is for users who have been dealing with javascript but never had opportunity to work on javascript. 
+It is for users to want to take their javascript skill to next level.
+
+* [Javascript Starter Architecture, Part 2: The Polyfill 
+Potion](https://medium.com/@mikedoug/javascript-starter-architecture-part-2-the-polyfill-potion-e8e60c51d2ec) 
+* [Javascript Starter Architecture For the General 
+Website](https://codeburst.io/javascript-architecture-for-the-general-website-210e1796495d)
+### Specific
+
+* [Understanding Synchronous and Asynchronous Callback Functions in Node.js | Part 
+1](https://www.nodexplained.com/blog-detail/2018/01/24/understanding-synchronous-and-asynchronous-callback-functions-in-nodejs-
+
+* [How To Work with Prototypes and Inheritance in JavaScript | 
+DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript)
+
+* [Javascript Object, Prototype and Inheritance  The MavenHive 
+Blog](https://blog.mavenhive.in/javascript-object-prototype-and-inheritance-9b2eb62a0503) 
+
+* [A toddlers guide to memory leaks in Javascript  Kushan Joshi  
+Medium](https://medium.com/@kepta/a-toddlers-guide-to-memory-leaks-in-javascript-d5a592c7bec1)
+## Reading 
 
 * [Sapper: Towards the ideal web app framework](https://svelte.technology/blog/sapper-towards-the-ideal-web-app-framework)
 * [AddyOsmani.com - Essential JavaScript Namespacing Patterns](https://addyosmani.com/blog/essential-js-namespacing/)
@@ -52,7 +75,7 @@ stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0
 ### Videos
 
 * [(30) Worst JavaScript Flaws That Hackers Love To Abuse - YouTube](https://www.youtube.com/watch?v=0dgmeTy7X3I)
-
+* [PickleJS  Closures  JavaScript January](https://www.javascriptjanuary.com/blog/picklejs-closures)
 ### Projects
 
 * [Build Custom “Serverless” Push Notifications for Any Website in 6 Minutes with StdLib and PhantomJS](https://medium.com/@jacoblee93/build-custom-serverless-push-notifications-for-any-website-in-6-minutes-with-stdlib-and-phantomjs-ea67c988801f)
