@@ -28,7 +28,7 @@
 
 * [A different way of understanding `this` in JavaScript](http://2ality.com/2017/12/alternate-this.html)
 
-* [Tutorial — Learn and build projects with pure JavaScript (No frameworks or libraries)](https://medium.com/@bramtom883/tutorial-learn-and-build-projects-with-pure-javascript-no-frameworks-or-libraries-74a259dcbb79)
+* [Tutorial â€” Learn and build projects with pure JavaScript (No frameworks or libraries)](https://medium.com/@bramtom883/tutorial-learn-and-build-projects-with-pure-javascript-no-frameworks-or-libraries-74a259dcbb79)
 
 * [TestFirst.org - The Home of Test-First Teaching](http://testfirst.org/) - Full stack (I think) TDD based tutorials. Vanilla JS + Ruby.
 
@@ -68,7 +68,7 @@ Medium](https://medium.com/@kepta/a-toddlers-guide-to-memory-leaks-in-javascript
 
 * [Sapper: Towards the ideal web app framework](https://svelte.technology/blog/sapper-towards-the-ideal-web-app-framework)
 * [AddyOsmani.com - Essential JavaScript Namespacing Patterns](https://addyosmani.com/blog/essential-js-namespacing/)
-* [Robust Client-Side JavaScript  A Developers Guide � molily](https://molily.de/robust-javascript/)
+* [Robust Client-Side JavaScript  A Developers Guide ú molily](https://molily.de/robust-javascript/)
 * [How JavaScript works: an overview of the engine, the runtime, and the call 
 stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 
@@ -78,14 +78,14 @@ stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0
 * [PickleJS  Closures  JavaScript January](https://www.javascriptjanuary.com/blog/picklejs-closures)
 ### Projects
 
-* [Build Custom “Serverless” Push Notifications for Any Website in 6 Minutes with StdLib and PhantomJS](https://medium.com/@jacoblee93/build-custom-serverless-push-notifications-for-any-website-in-6-minutes-with-stdlib-and-phantomjs-ea67c988801f)
+* [Build Custom Serverless Push Notifications for Any Website in 6 Minutes with StdLib and PhantomJS](https://medium.com/@jacoblee93/build-custom-serverless-push-notifications-for-any-website-in-6-minutes-with-stdlib-and-phantomjs-ea67c988801f)
 * [Module Development Workflow  JavaScript January](https://www.javascriptjanuary.com/blog/module-development-workflow)
 
 ### Concepts and guides
 
-* [Await and Async Explained with Diagrams and Examples – Nikolay Grozev](http://nikgrozev.com/2017/10/01/async-await/)
+* [Await and Async Explained with Diagrams and Examples â€“ Nikolay Grozev](http://nikgrozev.com/2017/10/01/async-await/)
 * [Async/Await Will Make Your Code Simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
-* [JavaScript Factory Functions with ES6+ – JavaScript Scene – Medium](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
+* [JavaScript Factory Functions with ES6+ â€“ JavaScript Scene â€“ Medium](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
 * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 ( [The this keyword is extremely simple and doesn't require any more than a few bullet points to understand. : 
 javascript](https://www.reddit.com/r/javascript/comments/j2j8b/the_this_keyword_is_extremely_simple_and_doesnt/) 
