@@ -1,0 +1,114 @@
+﻿# CORS (& more)
+
+* [Understanding CORS  Bartosz Szczeciski  Medium](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b)
+
+# d3.js
+
+[Main Site](https://d3js.org)
+
+## Resources
+
+* [D3 Discovery  Finding D3 plugins with ease](https://d3-discovery.net/) 
+# Decorators
+
+* [Higher Order Classes with Javascript Decorators  REFINERI](https://blog.refineri.co.uk/higher-order-classes-with-javascript-decorators-9089a4b2fad0)
+# Hyper App
+
+[Main Site]()
+
+* [Functional Programming in JavaScript with Hyperapp](https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyperapp-570f)
+# Libraries
+
+* [Search, sort, filters, flexibility to tables, list and more! - List.js](http://listjs.com/)
+* [typicode/lowdb: lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser)](https://github.com/typicode/lowdb)
+* [Table.js | Documentation](http://www.latex-tables.com/projects/TableJS/)
+* [xcell](https://tomazy.github.io/xcell/) 
+* [Clusterize.js](https://clusterize.js.org/)
+* [SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes](https://sweetalert2.github.io/)
+* [Blotter.js](https://blotter.js.org/) - A JavaScript API for drawing unconventional text effects on the web.
+
+* [But really, what is a JavaScript test?  JavaScript January](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test)
+
+* [rpfujiw/gui-auto-uat: Regression testing made easy. Watch video demo below. GUI Auto UAT is a webapp for creating and running automated browser tests easily 
+through a web interface for regression testing and and UAT. It is built on top of WebdriverIO and utilizes the Cucumber Gherkin syntax for human readable browser 
+automation tests.](https://github.com/rpfujiw/gui-auto-uat)
+# Tooling
+
+## Tools
+
+* [Hreftools.com - Online Web Tools](https://hreftools.com/)
+
+
+## Reading
+
+* [How We Simplified our Tooling Setup for Node.js 
+Projects](https://medium.com/blogfoster-engineering/how-we-simplified-our-tooling-setup-for-node-js-projects-80b423293b2c)
+* [Setting up a Node.js development environment | A pain-free 
+guide](https://medium.com/@kashgoudarzi/setting-up-a-node-js-development-environment-a-pain-free-guide-86c00ffa0ca4)
+* [reyronald/awesome-toolkits: A curated list of open source, high-quality, popular and well maintained "zero-configuration" (#0CJS) 
+toolkits](https://github.com/reyronald/awesome-toolkits)
+* [Setting up a minimal Node environment with Webpack and Babel](https://dev.to/aurelkurtula/setting-up-a-minimal-node-environment-with-webpack-and-babel--1j04) * 
+[What tools/workflow one should use for small project? : javascript](https://www.reddit.com/r/javascript/comments/7y7rbk/what_toolsworkflow_one_should_use_for_small/) 
+* [fuse-box/fuse-box: A blazing fast js bundler/loader with a comprehensive API](https://github.com/fuse-box/fuse-box)
+# Webpack
+
+## Intro
+
+* [Having A Hard Time Understanding Webpack : javascript](https://www.reddit.com/r/javascript/comments/7qdksl/having_a_hard_time_understanding_webpack/) 
+# Artificial Intelligence, Machine Learning and so forth
+
+## Reading
+
+* [The Many Tribes of Artificial Intelligence  Intuition Machine  
+Medium](https://medium.com/intuitionmachine/the-many-tribes-problem-of-artificial-intelligence-ai-1300faba5b60)
+
+* [A Web Developer's Guide to Machine Learning in JavaScript - RWieruch](https://www.robinwieruch.de/machine-learning-javascript-web-developers/)
+# Compilers
+
+## Reading/Watching
+
+## From [Learn how to contribute to the TypeScript compiler on GitHub through a real-world 
+example](https://dev.to/remojansen/learn-how-to-contribute-to-the-typescript-compiler-on-github-through-a-real-world-example-4df0)
+* [Syntaxation](https://www.youtube.com/watch?v=Nlqv6NtBXcA) by Douglas Crockford describes how to implement a parser from scratch and provides a very good 
+understanding of what is an abstract syntax tree (AST) and how it is generated. 
+* [Hidden Gems of TypeScript compiler](https://www.youtube.com/watch?v=WkJagE7b5U0) by 
+Vincent Ogloblinsky describes how the TypeScript compiler works in a very clear and practical way. 
+* [Anders Hejlsberg @ Build 
+2017](https://www.youtube.com/watch?v=jBddlEWNsps) is one of the many Anders Hejlsberg interviews about TypeScript. 
+* [Modern Compiler 
+Construction](https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction) by Anders Hejlsberg provides some interesting insights 
+about the TypeScript compiler but it doesn't too much into implementation details. 
+* [Grammatically Rooting Oneself With Parse 
+Trees](https://dev.to/vaidehijoshi/grammatically-rooting-oneself-with-parse-trees-16a) 
+* [Architectural 
+Overview](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview) 
+* [Compiler Internals](https://github.com/Microsoft/TypeScript/wiki/Compiler-Internals) 
+* [TypeScript Compiler Internals](https://basarat.gitbooks.io/typescript/docs/compiler/overview.html) by [Basarat Ali Syed](https://twitter.com/basarat). * 
+"TypeScript Contributors" and "Building Tools for TypeScript" sections in the [TypeScript wiki](https://github.com/Microsoft/TypeScript/wiki).
+* [Making a Brainf*ck to C Compiler in Rust - Aesl - Medium](https://medium.com/@CanHasCommunism/making-a-brainf-ck-to-c-compiler-in-rust-10f0c01a282d)
+## Interactive
+
+
+* [tiny-compiler/tiny.js at master ú mgechev/tiny-compiler](https://github.com/mgechev/tiny-compiler/blob/master/tiny.js) - Compiler in 25 lines of JS
+# Graphics
+
+## Shaders
+
+* [(55) Shader Blocks : 000 : Proof of Concept - YouTube](https://www.youtube.com/watch?v=sUmqY3KNsnI&feature=youtu.be)
+# Paradigms
+
+## Imperative vs Declarative
+
+`x = 3` in an imperative language is just sugar coating of `set(x,3)`, which is what makes it imperative.
+Declarative programming, on the other hand, is just that - it declares, not orders. 
+
+`let` confuses me a bit here, but I think it can be understood as in a sort of buffer between the two. With its mathematical past, it echos the declarative nature of math, but the implicit executor of the action (`let`) places it as a literal imperative function.  
+
+## Functional
+
+>Functional is a particular kind of declarative. - [stackoverflow](https://stackoverflow.com/questions/10925689/functional-programming-vs-declarative-programming-vs-imperative-programming)  
+
+
+## Reactive 
+
+> For example, in an imperative programming setting, {\displaystyle a:=b+c} a:=b+c would mean that {\displaystyle a} a is being assigned the result of {\displaystyle b+c} b+c in the instant the expression is evaluated, and later, the values of {\displaystyle b} b and/or {\displaystyle c} c can be changed with no effect on the value of {\displaystyle a} a. However, in reactive programming, the value of {\displaystyle a} a is automatically updated whenever the values of {\displaystyle b} b and/or {\displaystyle c} c change; without the program having to re-execute the sentence {\displaystyle a:=b+c} a:=b+c to determine the presently assigned value of {\displaystyle a} a. - Wikipedia
