@@ -6,6 +6,7 @@
 
 ## Reading
 
+* [A Comprehensive Guide to React.js in 2018](https://dev.to/tylermcginnis/a-comprehensive-guide-to-reactjs-in-2018--4nbc) - *INTRO*
 * [Understanding The React Source Code I  Hacker Noon](https://hackernoon.com/understanding-the-react-source-code-initial-rendering-simple-component-i-80263fe46cf1)
 * [The Saga Continues  Magic in React  ITNEXT](https://itnext.io/the-saga-continues-magic-in-react-44da8d134285)
 
